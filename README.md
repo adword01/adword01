@@ -1,17 +1,21 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar Singh</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
-- 🔭 I’m currently working on **KrishiMitra**
+- 🔭 I’m currently working on [KrishiMitra](https://github.com/adword01/Krishi-Mitra)
 
 - 🌱 I’m currently learning **Android, Kotlin, Java**
 
-- 👯 I’m looking to collaborate on **Brain Academy**
+- 👯 I’m looking to collaborate on [Brain Academy](https://github.com/adword01/BrainAcademy)
 
-- 🤝 I’m looking for help with **PayIT**
+- 🤝 I’m looking for help with [PayIT](https://github.com/adword01/PayIT)
+
+- 👨‍💻 All of my projects are available at [https://github.com/adword01](https://github.com/adword01)
 
 - 💬 Ask me about **Android**
 
 - 📫 How to reach me **21304@iiitu.ac.in**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Woc6xlEo5N21gd6wn65lKiX_7LSRg7IB/view](https://drive.google.com/file/d/1Woc6xlEo5N21gd6wn65lKiX_7LSRg7IB/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
